@@ -1,20 +1,15 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # BMI Calculator 💪
 
-## Our Goal
+## My Goal
 
-The objective of this tutorial is to look at how we can customise Flutter Widgets to achieve our own beautiful user interface designs. If you have a designer on board, no matter how unconventional their designs are, we can create them using Flutter. 
+The purpose of this project is to replicate designs using Flutter where you can customize widgets. 
+
+I intend to create a BMI calculator which is inspired by the beautiful designs of [Kevin Al-Rizal](https://dribbble.com/shots/11368106-BMI-Calculator-App-Neumorphism). The design may not be mapped 1:1, but the assumptions are there. 
+
+![finishedcalcapp](https://user-images.githubusercontent.com/72250823/114150971-ed0b3200-991c-11eb-96e0-0e6f1f00812a.gif)
 
 
-## What you will create
-
-We’re going to make a Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It will be a multi screen app with simple functionality but full-on custom styling. 
-
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
-
-## What you will learn
+## What I have learned
 
 - How to use Flutter themes to create coherent branding. 
 - How to create multi-page apps using Flutter Routes and Navigator.
@@ -27,6 +22,16 @@ We’re going to make a Body Mass Index Calculator inspired by the beautiful des
 - Learn about composition vs. inheritance and the Flutter way of creating custom UI.
 - Understand the difference between const and final in Dart and when to use each.
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+## Future Goals
 
+- Creating an additional two panels from Kevin's design
+- Adding animation in the results screen
+- Adding the possibility of logging in
+- Connecting to sqlite and saving results to database
+
+## Additional information
+
+The project would not have succeeded if not for Angela Wu's wonderful bootcamp. I encourage you to take it because it is very valuable. 
+
+>Check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
