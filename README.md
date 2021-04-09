@@ -31,7 +31,7 @@ I intend to create a BMI calculator which is inspired by the beautiful designs o
 
 ## Additional information
 
-The project would not have succeeded if not for Angela Wu's wonderful bootcamp. I encourage you to take it because it is very valuable. 
+The project would not have succeeded if not for Angela Yu's wonderful bootcamp. I encourage you to take it because it is very valuable. 
 
 >Check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 ![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
