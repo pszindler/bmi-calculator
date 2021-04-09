@@ -28,6 +28,7 @@ I intend to create a BMI calculator which is inspired by the beautiful designs o
 - Adding animation in the results screen
 - Adding the possibility of logging in
 - Connecting to sqlite and saving results to database
+- Create slider from a scratch
 
 ## Additional information
 
